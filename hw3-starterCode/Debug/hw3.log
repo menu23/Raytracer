@@ -1,0 +1,11 @@
+﻿  hw3.cpp
+e:\5. ms\spring 2019\computer graphics\assignment 3\hw3-startercode\hw3-startercode\hw3.cpp(588): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+e:\5. ms\spring 2019\computer graphics\assignment 3\hw3-startercode\hw3-startercode\hw3.cpp(601): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+  jpeg.lib(jerror.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+imageIO.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+  hw3.vcxproj -> E:\5. MS\Spring 2019\Computer Graphics\Assignment 3\hw3-starterCode\hw3-starterCode\\Bin\Debug\hw3.exe
+  hw3.vcxproj -> E:\5. MS\Spring 2019\Computer Graphics\Assignment 3\hw3-starterCode\hw3-starterCode\\Bin\Debug\hw3.pdb (Full PDB)
